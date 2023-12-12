@@ -1,0 +1,12 @@
+{
+  "name": "leetcode",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest",
+    "dprint": "^0.43.2"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
